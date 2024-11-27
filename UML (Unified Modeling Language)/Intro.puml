@@ -1,0 +1,7 @@
+
+@startuml
+class Flight {
+   flightNumber : Integer
+   departureTime : Date
+}
+@enduml
