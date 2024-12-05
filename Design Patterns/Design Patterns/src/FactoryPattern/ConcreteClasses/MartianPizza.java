@@ -1,3 +1,7 @@
+package FactoryPattern.ConcreteClasses;
+
+import FactoryPattern.Pizza;
+
 public class MartianPizza implements Pizza {
     @Override
     public void prepare() {

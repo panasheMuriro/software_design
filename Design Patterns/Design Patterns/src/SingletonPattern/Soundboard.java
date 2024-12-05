@@ -1,3 +1,6 @@
+
+package SingletonPattern;
+
 public class Soundboard {
     private static Soundboard instance;
 

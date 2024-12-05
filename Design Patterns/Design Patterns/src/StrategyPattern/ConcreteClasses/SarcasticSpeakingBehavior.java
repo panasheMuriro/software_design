@@ -1,4 +1,7 @@
-// A sarcastic parrot that mimics mockingly
+package StrategyPattern.ConcreteClasses;
+
+import StrategyPattern.SpeakingBehavior;
+
 public class SarcasticSpeakingBehavior implements SpeakingBehavior {
     @Override
     public String speak(String phrase) {

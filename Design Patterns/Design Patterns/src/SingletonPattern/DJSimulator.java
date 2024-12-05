@@ -1,3 +1,5 @@
+package SingletonPattern;
+
 public class DJSimulator {
     public static void main(String[] args) {
         System.out.println("Accessing the soundboard for the first time...");

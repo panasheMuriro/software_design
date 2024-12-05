@@ -1,3 +1,5 @@
+package StrategyPattern;
+
 public class Parrot {
     private SpeakingBehavior speakingBehavior;
 

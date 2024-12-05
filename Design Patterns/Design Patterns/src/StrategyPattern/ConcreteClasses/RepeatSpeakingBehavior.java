@@ -1,3 +1,6 @@
+package StrategyPattern.ConcreteClasses;
+import StrategyPattern.SpeakingBehavior;
+
 // A simple parrot that repeats exactly
 public class RepeatSpeakingBehavior implements SpeakingBehavior {
     @Override
@@ -5,6 +8,7 @@ public class RepeatSpeakingBehavior implements SpeakingBehavior {
         return phrase; // Repeats exactly
     }
 }
+
 
 
 

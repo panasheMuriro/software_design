@@ -1,3 +1,9 @@
+package StrategyPattern;
+
+import StrategyPattern.ConcreteClasses.PirateSpeakingBehavior;
+import StrategyPattern.ConcreteClasses.RepeatSpeakingBehavior;
+import StrategyPattern.ConcreteClasses.SarcasticSpeakingBehavior;
+
 public class TalkingParrotSimulator {
     public static void main(String[] args) {
         Parrot parrot = new Parrot(new RepeatSpeakingBehavior());
