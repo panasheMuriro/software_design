@@ -1,0 +1,19 @@
+@startuml
+
+abstract class Animal{
+    name:String
+    age: int
+    makeSound(): void
+}
+
+class Dog {
+    makeSound():void
+}
+
+class Cat {
+    makeSound(): void
+}
+
+Animal <|-- Dog
+Animal <|-- Cat
+@enduml
