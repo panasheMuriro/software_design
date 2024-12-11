@@ -8,17 +8,17 @@
     - ✅ Tools for UML (e.g., Lucidchart, StarUML, Visual Paradigm).
 2. Basic UML Diagram Types
 
-    - Class Diagram: Representing the structure of a system.
-    - Use Case Diagram: Visualizing functional requirements.
-    - Sequence Diagram: Modeling interactions over time.
+    - ✅ Class Diagram: Representing the structure of a system.
+    - ✅ Use Case Diagram: Visualizing functional requirements.
+    - ✅Sequence Diagram: Modeling interactions over time.
 3. Key Elements of UML Diagrams
 
-    - Classes, Objects, Attributes, and Methods.
-    - Relationships: Association, Aggregation, Composition.
-    - Actors and Use Cases.
+    - ✅ Classes, Objects, Attributes, and Methods.
+    - ✅ Relationships: Association, Aggregation, Composition.
+    - ✅ Actors and Use Cases.
 4. Creating Simple Diagrams
 
-    - Practice drawing class diagrams for simple systems like a library or a school.
+    - ✅ Practice drawing class diagrams for simple systems like a library or a school.
 ## Intermediate Level: Expanding the Scope
 1. Behavioral Diagrams
 

@@ -1,0 +1,10 @@
+@startuml
+actor Member
+participant "Library System" as Library
+participant "Book Database" as Database
+
+Member -> Library: Borrow Book
+Library -> Database: Check Availability
+Database --> Library: Available
+Library --> Member: Book Borrowed
+@enduml

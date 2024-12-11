@@ -1,0 +1,12 @@
+@startuml
+actor Member
+actor Librarian
+
+usecase "Borrow Book" as UC_Borrow
+usecase "Return Book" as UC_Return
+usecase "Add Book" as UC_Add
+
+Member --> UC_Borrow
+Member --> UC_Return
+Librarian --> UC_Add
+@enduml
